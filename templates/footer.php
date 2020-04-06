@@ -1,0 +1,1 @@
+<footer>Custom CMS by Michael Prior<br> Copyright <?php echo date('Y');?></footer>
